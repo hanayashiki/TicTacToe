@@ -1,0 +1,1 @@
+{"trained_epochs": 3000, "batch": 32, "modelO": {"loss": 0.002995407674461603, "weights": "O9.h5"}, "modelX": {"loss": 0.0032982248812913895, "weights": "X9.h5"}, "totalLoss": 0.006293632555752993}
