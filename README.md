@@ -1,5 +1,7 @@
 # TicTacToe
 
+For rendered math formulars, visit https://blog.csdn.net/weixin_38587349/article/details/83033087
+
 ## 原理
 
 主要是看了这一篇[Get a taste of reinforcement learning — implement a tic tac toe agent](https://medium.com/@shiyan/get-a-taste-of-reinforcement-learning-implement-a-tic-tac-toe-agent-deda5617b2e4)，里面作者提出了大概的训练思路，我基本没有参照他的具体实现，但是思路肯定是差不多的。而且训练结果是我几乎下不过这个AI，比这篇的结果要好很多（不过这种明显算法可以解决的问题用AI也没什么意思）。
